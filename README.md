@@ -1,4 +1,4 @@
-# ESI_Predictor
+# Evaluation of Large Language Models in Predicting Emergency Severity Index Levels at the Point of Triage: A Comparative Study of Prompt Engineering Techniques.
 
 The Emergency Severity Index (ESI) is a critical triage tool used in emergency departments (EDs) to prioritize patients based on acuity and resource needs. While prior studies have explored traditional machine learning methods for ESI prediction, their limited applicability in real-world settings underscores the need for more flexible and interpretable models. This study evaluates the potential of large language models (LLMs) to predict ESI levels at the point of triage using only data available at patient arrival, such as demographics, chief complaints, mode of arrival, and vital signs.
 
