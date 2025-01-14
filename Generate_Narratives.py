@@ -57,7 +57,7 @@ def generate_patient_narrative(row):
 
     try:
         response = openai.Completion.create(
-            engine="text-davinci-003",
+            engine="gpt-4o",
             prompt=prompt,
             temperature=0.7 #Can be adjusted
         )
