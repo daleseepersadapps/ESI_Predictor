@@ -1,0 +1,83 @@
+ESI Guidelines for Triage Decision-Making
+The Emergency Severity Index (ESI) algorithm assigns a triage level (1-5) based on clinical stability, risk of deterioration, and resource needs. This stepwise process ensures accurate categorization of patients based on acuity and required care. Each decision point includes detailed criteria to address challenging cases.
+Decision Points
+Decision Point A: Is Immediate Life-Saving Intervention Required?
+Assign ESI Level 1 if YES.
+Criteria for immediate intervention:
+Airway/Respiratory Support:
+Severe respiratory distress, requiring bag-valve-mask ventilation or intubation.
+Stridor, cyanosis, or choking with inability to speak or cry.
+Apneic episodes in infants or adults.
+Hemodynamic Instability:
+Profound hypotension unresponsive to initial fluid boluses.
+Bradycardia or tachycardia with signs of shock (altered mental status, cool extremities, delayed capillary refill).
+Neurologic Instability:
+Unresponsiveness (nonverbal, not following commands).
+Seizures ongoing or within the last 5 minutes without recovery to baseline.
+Examples of Challenging Cases:
+Hypoglycemia: Only assign Level 1 if there is accompanying altered mental status or inability to protect the airway.
+Trauma: Penetrating trauma to critical areas (e.g., chest, abdomen, neck) always qualifies, but consider ESI 2 for stable blunt trauma unless there is imminent arrest.
+
+Decision Point B: High-Risk Situation, Altered Mental Status, or Severe Pain/Distress?
+Assign ESI Level 2 if YES.
+Criteria:
+High-Risk Situations:
+Conditions with potential for rapid deterioration even if currently stable:
+Chest pain suspected of acute coronary syndrome, even with normal initial vitals.
+Sudden onset of severe headache ("worst headache of life") without focal deficits.
+Pediatric fever ≥ 38°C (100.4°F) in an infant under 3 months old.
+Altered Mental Status:
+Acute confusion, new disorientation, or severe lethargy not requiring immediate intervention (e.g., patient rouses to voice but is incoherent).
+Severe Pain/Distress:
+Severe pain rated ≥ 7/10 by the patient with corroborating findings (e.g., visible injury, guarding, diaphoresis).
+Behavioral distress, especially in pediatric or non-verbal patients (e.g., inconsolable crying).
+Examples of Challenging Cases:
+Mental health: Patients with suicidal ideation without immediate risk of self-harm may still meet Level 2 due to risk of rapid deterioration.
+Pain: A patient reporting severe abdominal pain with stable vitals may still warrant Level 2 if there is clinical suspicion for a surgical emergency (e.g., ruptured ectopic pregnancy, aortic dissection).
+
+Decision Point C: What Resources Are Needed?
+If ESI Level 1 or 2 criteria are not met:
+Estimate resources:
+Count distinct types, not the number of tests or interventions within each category.
+Assign Levels:
+None: ESI Level 5.
+One: ESI Level 4.
+Two or more: ESI Level 3.
+Additional Notes:
+Resource Clarifications:
+Labs (e.g., CBC, BMP) = 1 resource.
+Imaging (e.g., chest X-ray, CT head) = 1 resource per modality.
+Combined labs and imaging (e.g., CBC + X-ray) = 2 resources.
+Procedures:
+Simple (e.g., wound closure) = 1 resource.
+Complex (e.g., procedural sedation) = 2 resources.
+Non-Resource Examples:
+Oral medications or over-the-counter treatments (e.g., ibuprofen, acetaminophen).
+Prescription refills or routine vaccinations.
+History-taking or physical examination.
+Examples of Challenging Cases:
+Chest pain: CBC, EKG, and chest X-ray = 3 resources → ESI Level 3.
+Isolated laceration requiring suturing and tetanus shot: Simple procedure + non-resource = ESI Level 4.
+Pediatric fever requiring labs (CBC) but no imaging or procedures: 1 resource → ESI Level 4.
+
+Decision Point D: Are Vital Signs Within Normal Limits?
+Evaluate all patients categorized as ESI Levels 3-5:
+If any vital signs are abnormal, reassess the patient for potential instability and up-triage if necessary.
+Reassign to ESI Level 2 if:
+Vital signs suggest early shock, respiratory distress, or other physiologic instability.
+Vital Signs Considerations:
+Pediatrics: Use age-adjusted thresholds.
+Example: Tachycardia in a febrile child may be expected but requires reassessment if persistent after antipyretics.
+Elderly/Chronically Ill: Consider patient baseline.
+Example: A blood pressure of 100/60 may be normal for a healthy adult but concerning in a hypertensive elderly patient.
+Examples of Challenging Cases:
+Persistent tachycardia in a well-appearing patient with suspected sepsis: Assign ESI Level 2.
+A febrile pediatric patient (age 3-6 months) with HR 160 and mild dehydration: Monitor response to fluids before finalizing the level.
+
+Summary of ESI Assignment:
+ESI Level 1: Immediate life-saving intervention required.
+ESI Level 2: High-risk situation, altered mental status, or severe pain/distress.
+ESI Levels 3-5: Determined by the number of resources needed and reassessed by vital signs:
+None = Level 5.
+One = Level 4.
+Two or more = Level 3 (adjust upward if vitals are concerning).
