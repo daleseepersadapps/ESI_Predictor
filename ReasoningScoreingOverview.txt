@@ -1,4 +1,4 @@
-Decision Point A: Immediate Life-Saving Intervention
+1. Decision Point A: Immediate Life-Saving Intervention
 
 Content Coverage:
 +1: Clearly assesses and excludes the need for immediate life-saving interventions, using both guideline-specific language and relevant supporting details.
@@ -8,7 +8,8 @@ Analytical Integration:
 +1: Explicitly explains why the absence of these interventions justifies excluding ESI Level 1, linking clinical findings to the decision.
 0: Provides minimal or generic explanation that doesn’t clearly link to the decision.
 –1: Provides an explanation that is logically disconnected from the decision-making process.
-Decision Point B: High-Risk Situation, Altered Mental Status, or Severe Pain/Distress
+
+2. Decision Point B: High-Risk Situation, Altered Mental Status, or Severe Pain/Distress
 
 Content Coverage:
 +1: Accurately identifies and lists relevant high-risk factors (e.g., patient age, specific clinical findings) as per the guidelines.
@@ -18,7 +19,8 @@ Analytical Integration:
 +1: Provides clear rationale linking these high-risk factors to the appropriate ESI level (e.g., detailing why these factors necessitate higher-priority care).
 0: Mentions the factors without effectively explaining their impact on triage assignment.
 –1: Contradicts the high-risk assessment with the final decision, or fails to integrate the high-risk assessment into a coherent rationale.
-Decision Point C: Resource Needs Assessment
+
+3. Decision Point C: Resource Needs Assessment
 
 Content Coverage:
 +1: Explicitly itemizes or appropriately describes the resources required, matching them accurately to the guideline’s resource counts.
@@ -28,7 +30,8 @@ Analytical Integration:
 +1: Clearly explains how the resource assessment justifies the assigned ESI level and connects this to other decision points.
 0: Offers minimal discussion of how resource needs impact the overall triage level.
 –1: Shows a disconnect between resource assessment and the final decision, or uses resource terminology as filler without analytical depth.
-Decision Point D: Vital Signs Reassessment
+
+4. Decision Point D: Vital Signs Reassessment
 
 Content Coverage:
 +1: Accurately reports abnormal vital signs and recognizes their significance as outlined in the guidelines.
@@ -38,7 +41,8 @@ Analytical Integration:
 +1: Explicitly explains how the abnormal vital signs affect the triage decision (e.g., justifying up-triage to a higher level).
 0: Provides little to no explanation of the link between vital signs and the final triage decision.
 –1: Presents vital sign data that contradicts the final decision without reconciling the discrepancy.
-Overall Logical Consistency, Integration, and Analytical Depth
+
+5. Overall Logical Consistency, Integration, and Analytical Depth
 
 Content Coverage:
 +1: The explanation covers all decision points and includes all necessary guideline elements without omission.
